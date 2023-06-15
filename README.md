@@ -1,4 +1,5 @@
-# cone-predict
+# Comparation Images Component
+### to create before after comparations such as quality, optimization, time change, etc
 
 This template should help get you started developing with Vue 3 in Vite.
 
